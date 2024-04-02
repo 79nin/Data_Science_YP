@@ -1,5 +1,5 @@
 # Анализ сервиса аренды самокатов GoFast
-
+[.ipynb](https://github.com/79nin/Data_Science_YP/blob/main/Statistical_data_analysis/Statistical_data_analysis.ipynb)
 ## Описание проекта
 
 Требуется проанализировать данные и проверите некоторые гипотезы, которые могут помочь бизнесу вырасти.
