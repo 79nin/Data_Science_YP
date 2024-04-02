@@ -1,5 +1,5 @@
 # Проект для «Викишоп»
-
+[.ipynb](https://github.com/79nin/Data_Science_YP/blob/main/ML_Texts_project/ML_Texts_project.ipynb)
 ## Описание проекта
 
 Требуется создать прототип модели, способный классифицировать комментарии на позитивные и негативные.
