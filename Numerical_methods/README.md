@@ -1,5 +1,5 @@
 # Определение стоимости автомобилей
-
+[.ipynb](https://github.com/79nin/Data_Science_YP/blob/main/Numerical_methods/Numerical_methods.ipynb)
 ## Описание проекта
 
 Требуется создать прототип модели, способный определить стоимость автомобиля по ее техническим характеристикам.
